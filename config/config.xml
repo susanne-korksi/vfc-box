@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<config>
+	<database>
+		<attribute name="path" value="\database\vfc.db" />
+	</database>
+</config>
